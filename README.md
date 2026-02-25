@@ -165,10 +165,6 @@ Potential improvements for the physics engine:
 - Performance optimizations for large numbers of objects
 - 3D physics extension
 
-## 📝 License
-
-MIT License - see LICENSE file for details
-
 ## 🎓 Academic Context
 
 This project was developed for a physics class assignment, successfully demonstrating practical implementation of:
