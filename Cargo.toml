@@ -1,5 +1,5 @@
 [package]
-name = "phys engine"
+name = "phys_engine"
 version = "0.1.0"
 edition = "2021"
 

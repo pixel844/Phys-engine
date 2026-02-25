@@ -7,7 +7,7 @@ fn main() {
     App::new()
     .add_plugins(DefaultPlugins)
     .insert_resource(PhysicsConfig::default())
-    // Bevy 0.17 uses Messages (events renamed) [web:85][web:92][web:100]
+
     .add_message::<Contact>()
     .add_systems(Startup, setup)
     .add_systems(

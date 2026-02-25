@@ -3524,7 +3524,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "phys"
+name = "phys_engine"
 version = "0.1.0"
 dependencies = [
  "bevy",
