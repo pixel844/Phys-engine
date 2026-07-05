@@ -2,6 +2,12 @@
 
 A 2D physics simulation engine built with Rust and the Bevy game engine. This project implements fundamental physics concepts including rigid body dynamics, collision detection, and impulse resolution.
 
+
+
+ai overview of my project: _
+                            \
+                            \/
+                            
 ## 🎯 Overview
 
 This physics engine was developed as a class project in early 2026, demonstrating practical implementation of Newtonian physics principles. The engine features real-time 2D physics simulation with interactive controls, visual debugging tools, and conservation of momentum verification.
