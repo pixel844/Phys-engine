@@ -1,4 +1,4 @@
-# Phys Engine
+simple Phys Engine
 
 A 2D physics simulation engine built with Rust and the Bevy game engine. This project implements fundamental physics concepts including rigid body dynamics, collision detection, and impulse resolution.
 
